@@ -1,0 +1,2 @@
+# ZaplanujJedzownko
+Scrum Lab Workshop
